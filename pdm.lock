@@ -474,7 +474,7 @@ requires_python = ">=3.7"
 summary = "Python HTTP for Humans."
 groups = ["default"]
 dependencies = [
-    "certifi>=2017.4.17",
+    "certifi>=2024.7.4",
     "charset-normalizer<4,>=2",
     "idna<4,>=2.5",
     "urllib3<3,>=1.21.1",
